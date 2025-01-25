@@ -62,15 +62,6 @@
 <img width="452" alt="Image" src="https://github.com/user-attachments/assets/62c4a00d-4787-454a-bff1-60b68cade32c" />
 
  
-
-		
-
-
-
-
-
-
-
 2) 클래스 기능 구현
 
 Class GameFrame 
@@ -87,7 +78,7 @@ Class HowFrame
 Class MainFrame 
 	-Class MainPanel – 이미지 삽입
 
-4. 앱 사용 설명서
+4. 앱 사용 설명서----------------------------
 실행하면 시작화면이 뜬다.
 시작버튼을 누르면 게임을 시작할 수 있고 방법 버튼을 누르면 게임 방법을 볼 수 있다.
 종료버튼을 누르면 게임이 종료된다.
@@ -99,4 +90,3 @@ Class MainFrame
 시간 안에 24장의 모든 카드를 뒤집어 짝을 맞추면 게임을 클리어하게 된다.
 시간 안에 24장의 모든 카드를 뒤집지 못하면 게임을 실패하게 된다.
 점수는 카드 한 쌍을 맞출 때마다 10점, 게임이 종료된 시점에서 남은 초 (sec * 10) 의 추가 보너스 점수가 들어온다.
-![image](https://github.com/user-attachments/assets/263a1446-3ce0-4d02-a1d3-0ce599449b52)
