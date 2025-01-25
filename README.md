@@ -1,10 +1,13 @@
 # PokemonCardGame
 2-2 객체지향언어2 프로젝트
-1. 프로젝트 개요
+
+
+
+1. 프로젝트 개요----------------------------------
 
 개발 앱 소개 : 처음 5초간 오픈 된 카드의 위치를 기억한 후 카드를 2장씩 뒤집어 같은 그림을 찾는다. 만약 뒤집은 2장이 서로 다른 그림이라면 다시 뒤집는다. 이를 반복하며 24장의 모든 카드의 짝을 맞추면 끝나는 게임이다.
 
-2. 설계
+2. 설계---------------------------------------
 
 1) 구현 기능에 대한 설계 
 
@@ -19,18 +22,10 @@
 7.	성공했을 시 – 성공 다이얼로그, 실패했을 시 – 실패 다이얼로그
 8.	실시간으로 점수 계산 –> 보여주기
 9.	시작 화면 – 시작 버튼, 게임 방법을 보여주는 버튼, 게임 종료 버튼 만들기
-
---------------------------------------------------------------------------------------------------------------
-
 10.	타이머가 10초 남았을 때 바 색상 빨간색으로 변경
 11.	마우스 클릭 시, 카드 일치 여부에 따른 효과음 + 10초 효과음 + 전체 배경음악 on/off
 12.	뒤로가기 버튼
 13.	닉네임 설정
-
-
-
-
-
 
 
 
@@ -45,38 +40,26 @@
 
 
 3) 기초 클래스 설계
- 
+ <img width="452" alt="Image" src="https://github.com/user-attachments/assets/7fe0ebfd-fa8b-4955-ad3c-86cd8c4cce2d" />
+
 
 4) 화면 설계
+<img width="278" alt="Image" src="https://github.com/user-attachments/assets/e466bbae-ab0d-4f6b-9011-144e6936cc9d" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="236" alt="Image" src="https://github.com/user-attachments/assets/f0d74a0c-e5e3-4cb1-8a63-77dbd9ace1c8" />
 
 
 5) 화면 상세 설계
 
- 
+<img width="451" alt="Image" src="https://github.com/user-attachments/assets/fa6b1f6e-1704-4522-967f-70087a20d78c" />
 
 3. 구현
 
 1) 화면 구현
 
+<img width="452" alt="Image" src="https://github.com/user-attachments/assets/8d9278e1-3785-49be-9fdb-70f713807677" />
+
+<img width="452" alt="Image" src="https://github.com/user-attachments/assets/62c4a00d-4787-454a-bff1-60b68cade32c" />
 
  
 
