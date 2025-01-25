@@ -55,30 +55,13 @@
 
 3. 구현------------------------------------
 
-1) 화면 구현
-
 <img width="452" alt="Image" src="https://github.com/user-attachments/assets/8d9278e1-3785-49be-9fdb-70f713807677" />
 
 <img width="452" alt="Image" src="https://github.com/user-attachments/assets/62c4a00d-4787-454a-bff1-60b68cade32c" />
 
- 
-2) 클래스 기능 구현
-
-Class GameFrame 
--Class TimerThread – 타이머 스레드
--Class TimerPanel – 바 및 타이머 객체 위치 및 색상 설정
--Class ScorePanel – 점수 및 닉네임 설정
-	--Class PlayMyActionListener – 음악 재생
--Class GamePanel – 카드 객체와 게임 기능 함수(카드 뒤집기, 섞기, 그림 넣기 등) 구현
-	--Class ClickListener – 카드 일치 여부 확인
--Class MyLabel – 바 관련 함수 구현
--Class ConsumerThread – 바 1초마다 줄이는 스레드
-
-Class HowFrame 
-Class MainFrame 
-	-Class MainPanel – 이미지 삽입
 
 4. 앱 사용 설명서------------------------------------
+
 실행하면 시작화면이 뜬다.
 시작버튼을 누르면 게임을 시작할 수 있고 방법 버튼을 누르면 게임 방법을 볼 수 있다.
 종료버튼을 누르면 게임이 종료된다.
